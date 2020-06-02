@@ -124,4 +124,3 @@ def adding_to_dennis
      }
 
 end
-puts hopper[programmer_hash][grace_hopper]
